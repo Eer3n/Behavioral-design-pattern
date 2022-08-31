@@ -1,0 +1,18 @@
+
+Question 1.1
+    - You're creating a software for fast-trains, fast-train will have given routes in order. Each station must be visited
+      in such order. Use behavioral design pattern to create such software that tracks and print's fast-trains status.
+
+      Routes:
+        - Seol
+        - Busan
+        - Daegu
+        - Incheon
+        - Gwangju
+        - Daejeon
+        - Ulsan
+        - Suwon-si
+
+Question 1.2
+    - what is Mediator design pattern and It's purpose.
+    - what is Memento design pattern and It's purpose.
